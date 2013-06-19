@@ -1,2 +1,1 @@
-It will be a test project.
-Just to learn, how to use a github.
+My first implementation of the "Lehmer random number generator" procedure, written in fasm
